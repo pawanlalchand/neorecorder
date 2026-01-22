@@ -1,0 +1,21 @@
+{
+  "name": "neorecorder",
+  "version": "1.0.0",
+  "description": "Browser-based screen recording app with neomorphic glassmorphism design",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "screen-recording",
+    "webrtc",
+    "ffmpeg",
+    "glassmorphism"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
